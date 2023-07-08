@@ -1,0 +1,10 @@
+.rating-form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.rating-numbers{
+    display: flex;
+    justify-content: space-between;
+}
